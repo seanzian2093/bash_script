@@ -1,0 +1,7 @@
+total 16
+drwxrwxr-x 2 seanz seanz 4096  5月  3 22:59 .
+drwxrwxr-x 9 seanz seanz 4096  5月  3 22:53 ..
+-rw-rw-r-- 1 seanz seanz   51  5月  3 22:59 stderr.txt
+-rw-rw-r-- 1 seanz seanz    0  5月  3 22:59 stdout_err.txt
+-rwxrwxr-x 1 seanz seanz  186  5月  3 22:59 stdout_stderr.sh
+-rw-rw-r-- 1 seanz seanz    0  5月  3 22:59 stdout.txt
